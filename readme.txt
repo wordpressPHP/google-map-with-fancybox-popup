@@ -40,17 +40,17 @@ Frequently Asked Questions:
 
 Configuration option:
 
-= How to add Google Map in specific page/post? =
+How to add Google Map in specific page/post?
 
 Using the plugin short code you can add the Google Map in specific posts or pages. Please find the short code below.
 
 You have to set your Map ID in the id parameter. To view your Map ID go to your Dashboard ==> Settings ==> Google Map. 
 
-= How to add Google Map in widget? =
+How to add Google Map in widget?
 
 To add Google Map widget to your sidebar, go to your Dashboard. and then click on Widgets menu. You will see a widget called Google Map With FancyBox. Click Add Widget button or drag it to the sidebar on the right.
 
-= How to add Google Map PHP file? =
+How to add Google Map PHP file?
 
 Use below PHP code to add Google Map PHP file. You have to set your Map ID in the id parameter. To view your Map ID go to your Dashboard ==> Settings ==> Google Map.
 
