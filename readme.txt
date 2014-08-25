@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-pop
 Plugin URI: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/
 Tags: google map, fancybox, popup 
 Requires at least: 3.4
-Tested up to: 3.9
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,7 +23,7 @@ Check official website for live demo [http://www.gopiplus.com/work/2014/04/26/go
 
 Google Map With FancyBox Popup plugin allows you to add a Google Map into popup window. This is a great plugin to display your business location in a Google map or, just your personal address in Google Map. This plugin uses the jquery implementation of FancyBox to open popup window. Popup window will open by clicking location address. checkout the live demo for more information.
 
-Plugin Features:
+= Plugin Features: = 
 
 1. Lightweight JQuery (fancybox extension).
 2. Google map in popup window.
@@ -31,14 +31,14 @@ Plugin Features:
 4. Easily controllable back-end.
 5. Support for localization.
 
-Frequently Asked Questions:
+= Frequently Asked Questions: = 
 
 1. How to install the plugin into my WordPress blog?
 2. How to add and edit Google Map?
 3. How to change the popup window size?
 4. How to change the popup overlay color?
 
-Configuration option:
+= Configuration option: = 
 
 How to add Google Map in specific page/post?
 
@@ -60,13 +60,13 @@ Use below PHP code to add Google Map PHP file. You have to set your Map ID in th
 
 == Frequently Asked Questions ==
 
-= Q1. How to install the plugin into my WordPress blog? =
+Q1. How to install the plugin into my WordPress blog?
 
-= Q2. How to add and edit Google Map? =
+Q2. How to add and edit Google Map?
 
-= Q3. How to change the popup window size? =
+Q3. How to change the popup window size?
 
-= Q4. How to change the popup overlay color? =
+Q4. How to change the popup overlay color?
 
 [FAQ Answer](http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/ "FAQ Answer")
 
@@ -84,8 +84,18 @@ Use below PHP code to add Google Map PHP file. You have to set your Map ID in th
 
 * First version
 
+= 1.1 =
+
+* Tested up to 4.0
+* PHP Warning alert has been solved.
+
 == Upgrade Notice ==
 
 = 1.0 =
 
 * First version
+
+= 1.1 =
+
+* Tested up to 4.0
+* PHP Warning alert has been solved.

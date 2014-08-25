@@ -70,23 +70,14 @@ class gmwfb_registerhook
 		}		
 	}
 	
-	function gmwfb_add_javascript_files() 
-	{
-		if (!is_admin())
-		{
-			wp_enqueue_script('jquery');
-			wp_enqueue_style( 'jquery.fancybox-1.3.4', GMWFB_URL.'inc/jquery.fancybox-1.3.4.css');
-			wp_enqueue_script('jquery.fancybox-1.3.4', GMWFB_URL.'inc/jquery.fancybox-1.3.4.js');
-		}
-	}
-	
 	public static function gmwfb_widget_loading()
 	{
 		register_widget( 'gmwfb_widget_register' );
 	}
-	
-	function gmwfb_js_admin_head() 
-	{
+}
+
+function gmwfb_js_admin_head() 
+{
 		?>
 <script src="http://maps.google.com/maps/api/js?libraries=places&region=uk&language=en&sensor=true"></script>
 <script type="text/javascript"> 
@@ -213,7 +204,6 @@ else
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 <?php
-	}
 }
 
 class gmwfb_widget_register extends WP_Widget 
@@ -294,5 +284,15 @@ function gmwfb( $id = "" )
 	$arr = array();
 	$arr["id"] 	= $id;
 	echo gmwfb_loadmap::gmwfb_widget($arr);
+}
+
+function gmwfb_add_javascript_files() 
+{
+	if (!is_admin())
+	{
+		wp_enqueue_script('jquery');
+		wp_enqueue_style( 'jquery.fancybox-1.3.4', GMWFB_URL.'inc/jquery.fancybox-1.3.4.css');
+		wp_enqueue_script('jquery.fancybox-1.3.4', GMWFB_URL.'inc/jquery.fancybox-1.3.4.js');
+	}
 }
 ?>

@@ -14,3 +14,8 @@ First version.
 3. Responsive.
 4. Easily controllable back-end.
 5. Support for localization.
+
+********************************Version 1.1************************************************************
+
+Tested up to 4.0
+PHP Warning alert has been solved.
