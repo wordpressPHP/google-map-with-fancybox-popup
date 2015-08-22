@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-pop
 Plugin URI: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/
 Tags: google map, fancybox, popup 
 Requires at least: 3.4
-Tested up to: 4.2.2
-Stable tag: 1.3
+Tested up to: 4.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,10 @@ Q4. How to change the popup overlay color?
 
 1. Tested up to 4.2.2
 
+= 1.4 =
+
+1. Tested up to 4.3
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -115,3 +119,7 @@ Q4. How to change the popup overlay color?
 = 1.3 =
 
 1. Tested up to 4.2.2
+
+= 1.4 =
+
+1. Tested up to 4.3

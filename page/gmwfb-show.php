@@ -4,6 +4,7 @@
 if (isset($_POST['frm_gmwfb_display']) && $_POST['frm_gmwfb_display'] == 'yes')
 {
 	$did = isset($_GET['did']) ? $_GET['did'] : '0';
+	if(!is_numeric($did)) { die('<p>Are you sure you want to do this?</p>'); }
 	
 	$gmwfb_success = '';
 	$gmwfb_success_msg = FALSE;
@@ -52,7 +53,6 @@ if (isset($_POST['frm_gmwfb_display']) && $_POST['frm_gmwfb_display'] == 'yes')
       <table width="100%" class="widefat" id="straymanage">
         <thead>
           <tr>
-            <th class="check-column" scope="col"><input type="checkbox" name="gmwfb_group_item[]" /></th>
 			<th scope="col"><?php _e('Map Id', GMWFB_TDOMAIN); ?></th>
 			<th scope="col"><?php _e('Heading', GMWFB_TDOMAIN); ?></th>
             <th scope="col"><?php _e('Short Code', GMWFB_TDOMAIN); ?></th>
@@ -65,7 +65,6 @@ if (isset($_POST['frm_gmwfb_display']) && $_POST['frm_gmwfb_display'] == 'yes')
         </thead>
 		<tfoot>
           <tr>
-            <th class="check-column" scope="col"><input type="checkbox" name="gmwfb_group_item[]" /></th>
 			<th scope="col"><?php _e('Map Id', GMWFB_TDOMAIN); ?></th>
 			<th scope="col"><?php _e('Heading', GMWFB_TDOMAIN); ?></th>
             <th scope="col"><?php _e('Short Code', GMWFB_TDOMAIN); ?></th>
@@ -85,7 +84,6 @@ if (isset($_POST['frm_gmwfb_display']) && $_POST['frm_gmwfb_display'] == 'yes')
 				{
 					?>
 					<tr class="<?php if ($i&1) { echo'alternate'; } else { echo ''; }?>">
-						<td align="left"><input type="checkbox" value="<?php echo $data['gmwfb_id']; ?>" name="gmwfb_group_item[]"></td>
 						<td><?php echo $data['gmwfb_id']; ?></td>
 						<td><?php echo esc_html(stripslashes($data['gmwfb_heading'])); ?>
 						<div class="row-actions">
@@ -108,7 +106,7 @@ if (isset($_POST['frm_gmwfb_display']) && $_POST['frm_gmwfb_display'] == 'yes')
 			}
 			else
 			{
-				?><tr><td colspan="10" align="center"><?php _e('No records available.', GMWFB_TDOMAIN); ?></td></tr><?php 
+				?><tr><td colspan="8" align="center"><?php _e('No records available.', GMWFB_TDOMAIN); ?></td></tr><?php 
 			}
 			?>
 		</tbody>

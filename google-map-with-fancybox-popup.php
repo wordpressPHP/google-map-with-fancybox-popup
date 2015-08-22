@@ -3,7 +3,7 @@
 Plugin Name: Google Map with FancyBox Popup
 Plugin URI: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/
 Description: Google Map With FancyBox Popup plugin allows you to add a Google Map into popup window. This is a great plugin to display your business location in a Google map or, just your personal address in Google Map.
-Version: 1.3
+Version: 1.4
 Author: Gopi Ramasamy
 Donate link: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/
 Author URI: http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/
@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 /*  
-Copyright 2014  Google Map with FancyBox Popup (www.gopiplus.com)
+Copyright 2015  Google Map with FancyBox Popup (www.gopiplus.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
