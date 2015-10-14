@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Google Map with FancyBox Popup\n"
-"POT-Creation-Date: 2014-08-03 00:41+0800\n"
-"PO-Revision-Date: 2014-08-03 00:41+0800\n"
+"POT-Creation-Date: 2015-10-14 21:29+0800\n"
+"PO-Revision-Date: 2015-10-14 21:29+0800\n"
 "Last-Translator: \n"
 "Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
 "MIME-Version: 1.0\n"
@@ -26,24 +26,24 @@ msgid "Widget Title"
 msgstr ""
 
 #: ../classes/gmwfb-register.php:261 ../page/gmwfb-show.php:56
-#: ../page/gmwfb-show.php:69
+#: ../page/gmwfb-show.php:68
 msgid "Map Id"
 msgstr ""
 
 #: ../page/gmwfb-add.php:43 ../page/gmwfb-add.php:159
-#: ../page/gmwfb-edit.php:58 ../page/gmwfb-edit.php:146
+#: ../page/gmwfb-edit.php:59 ../page/gmwfb-edit.php:147
 msgid "Enter heading for your google map."
 msgstr ""
 
-#: ../page/gmwfb-add.php:50 ../page/gmwfb-edit.php:65
+#: ../page/gmwfb-add.php:50 ../page/gmwfb-edit.php:66
 msgid "Enter map address. Google auto suggest helps you to choose one."
 msgstr ""
 
-#: ../page/gmwfb-add.php:57 ../page/gmwfb-edit.php:72
+#: ../page/gmwfb-add.php:57 ../page/gmwfb-edit.php:73
 msgid "Enter map latitude (Or) Click Geocode button to get latitude."
 msgstr ""
 
-#: ../page/gmwfb-add.php:64 ../page/gmwfb-edit.php:79
+#: ../page/gmwfb-add.php:64 ../page/gmwfb-edit.php:80
 msgid "Enter map longitude (Or) Click Geocode button to get longitude."
 msgstr ""
 
@@ -51,148 +51,148 @@ msgstr ""
 msgid "New details was successfully added."
 msgstr ""
 
-#: ../page/gmwfb-add.php:96 ../page/gmwfb-edit.php:112
+#: ../page/gmwfb-add.php:96 ../page/gmwfb-edit.php:113
 msgid "Oops unexpected error occurred."
 msgstr ""
 
-#: ../page/gmwfb-add.php:140 ../page/gmwfb-edit.php:127
+#: ../page/gmwfb-add.php:140 ../page/gmwfb-edit.php:128
 msgid "Click here"
 msgstr ""
 
-#: ../page/gmwfb-add.php:141 ../page/gmwfb-edit.php:128
+#: ../page/gmwfb-add.php:141 ../page/gmwfb-edit.php:129
 msgid "to view the details"
 msgstr ""
 
-#: ../page/gmwfb-add.php:155 ../page/gmwfb-edit.php:142
+#: ../page/gmwfb-add.php:155 ../page/gmwfb-edit.php:143
 msgid "Add details"
 msgstr ""
 
-#: ../page/gmwfb-add.php:157 ../page/gmwfb-edit.php:144
+#: ../page/gmwfb-add.php:157 ../page/gmwfb-edit.php:145
 msgid "Location Heading"
 msgstr ""
 
-#: ../page/gmwfb-add.php:161 ../page/gmwfb-edit.php:148
+#: ../page/gmwfb-add.php:161 ../page/gmwfb-edit.php:149
 msgid "Map Address"
 msgstr ""
 
-#: ../page/gmwfb-add.php:163 ../page/gmwfb-edit.php:150
+#: ../page/gmwfb-add.php:163 ../page/gmwfb-edit.php:151
 msgid "Geocode"
 msgstr ""
 
-#: ../page/gmwfb-add.php:164 ../page/gmwfb-edit.php:151
+#: ../page/gmwfb-add.php:164 ../page/gmwfb-edit.php:152
 msgid "Enter the map address. Google auto suggest helps you to choose one."
 msgstr ""
 
-#: ../page/gmwfb-add.php:166 ../page/gmwfb-edit.php:153
-#: ../page/gmwfb-show.php:59 ../page/gmwfb-show.php:72
+#: ../page/gmwfb-add.php:166 ../page/gmwfb-edit.php:154
+#: ../page/gmwfb-show.php:59 ../page/gmwfb-show.php:71
 msgid "Latitude"
 msgstr ""
 
-#: ../page/gmwfb-add.php:167 ../page/gmwfb-edit.php:154
-#: ../page/gmwfb-show.php:60 ../page/gmwfb-show.php:73
+#: ../page/gmwfb-add.php:167 ../page/gmwfb-edit.php:155
+#: ../page/gmwfb-show.php:60 ../page/gmwfb-show.php:72
 msgid "Longitude"
 msgstr ""
 
-#: ../page/gmwfb-add.php:169 ../page/gmwfb-edit.php:156
+#: ../page/gmwfb-add.php:169 ../page/gmwfb-edit.php:157
 msgid "Enter the location latitude. "
 msgstr ""
 
-#: ../page/gmwfb-add.php:171 ../page/gmwfb-edit.php:158
+#: ../page/gmwfb-add.php:171 ../page/gmwfb-edit.php:159
 msgid "Short Message"
 msgstr ""
 
-#: ../page/gmwfb-add.php:173 ../page/gmwfb-edit.php:160
+#: ../page/gmwfb-add.php:173 ../page/gmwfb-edit.php:161
 msgid "Enter short message for this address."
 msgstr ""
 
-#: ../page/gmwfb-add.php:175 ../page/gmwfb-edit.php:162
-#: ../page/gmwfb-show.php:61 ../page/gmwfb-show.php:74
+#: ../page/gmwfb-add.php:175 ../page/gmwfb-edit.php:163
+#: ../page/gmwfb-show.php:61 ../page/gmwfb-show.php:73
 msgid "Width"
 msgstr ""
 
-#: ../page/gmwfb-add.php:191 ../page/gmwfb-edit.php:178
+#: ../page/gmwfb-add.php:191 ../page/gmwfb-edit.php:179
 msgid "Select your width percentage for the map."
 msgstr ""
 
-#: ../page/gmwfb-add.php:193 ../page/gmwfb-edit.php:180
-#: ../page/gmwfb-show.php:62 ../page/gmwfb-show.php:75
+#: ../page/gmwfb-add.php:193 ../page/gmwfb-edit.php:181
+#: ../page/gmwfb-show.php:62 ../page/gmwfb-show.php:74
 msgid "Height"
 msgstr ""
 
-#: ../page/gmwfb-add.php:209 ../page/gmwfb-edit.php:196
+#: ../page/gmwfb-add.php:209 ../page/gmwfb-edit.php:197
 msgid "Select your height percentage for the map."
 msgstr ""
 
-#: ../page/gmwfb-add.php:211 ../page/gmwfb-edit.php:198
+#: ../page/gmwfb-add.php:211 ../page/gmwfb-edit.php:199
 msgid "Map Zoom Level"
 msgstr ""
 
-#: ../page/gmwfb-add.php:228 ../page/gmwfb-edit.php:215
+#: ../page/gmwfb-add.php:228 ../page/gmwfb-edit.php:216
 msgid "Select your zoom level for the map."
 msgstr ""
 
-#: ../page/gmwfb-add.php:230 ../page/gmwfb-edit.php:217
-#: ../page/gmwfb-show.php:63 ../page/gmwfb-show.php:76
+#: ../page/gmwfb-add.php:230 ../page/gmwfb-edit.php:218
+#: ../page/gmwfb-show.php:63 ../page/gmwfb-show.php:75
 msgid "Map Type"
 msgstr ""
 
-#: ../page/gmwfb-add.php:237 ../page/gmwfb-edit.php:224
+#: ../page/gmwfb-add.php:237 ../page/gmwfb-edit.php:225
 msgid "Select your map type for the map."
 msgstr ""
 
-#: ../page/gmwfb-add.php:239 ../page/gmwfb-edit.php:226
+#: ../page/gmwfb-add.php:239 ../page/gmwfb-edit.php:227
 msgid "Select Layers"
 msgstr ""
 
-#: ../page/gmwfb-add.php:246 ../page/gmwfb-edit.php:233
+#: ../page/gmwfb-add.php:246 ../page/gmwfb-edit.php:234
 msgid "Select layer for the map."
 msgstr ""
 
-#: ../page/gmwfb-add.php:251 ../page/gmwfb-edit.php:238
+#: ../page/gmwfb-add.php:251 ../page/gmwfb-edit.php:239
 msgid "Submit"
 msgstr ""
 
-#: ../page/gmwfb-add.php:252 ../page/gmwfb-edit.php:239
+#: ../page/gmwfb-add.php:252 ../page/gmwfb-edit.php:240
 msgid "Cancel"
 msgstr ""
 
-#: ../page/gmwfb-add.php:253 ../page/gmwfb-edit.php:240
-#: ../page/gmwfb-show.php:122
+#: ../page/gmwfb-add.php:253 ../page/gmwfb-edit.php:241
+#: ../page/gmwfb-show.php:120
 msgid "Help"
 msgstr ""
 
-#: ../page/gmwfb-edit.php:12 ../page/gmwfb-show.php:16
+#: ../page/gmwfb-edit.php:13 ../page/gmwfb-show.php:17
 msgid "Oops, selected details doesnt exist."
 msgstr ""
 
-#: ../page/gmwfb-edit.php:108
+#: ../page/gmwfb-edit.php:109
 msgid "Details was successfully updated."
 msgstr ""
 
-#: ../page/gmwfb-show.php:31
+#: ../page/gmwfb-show.php:32
 msgid "Selected record was successfully deleted."
 msgstr ""
 
-#: ../page/gmwfb-show.php:44 ../page/gmwfb-show.php:121
+#: ../page/gmwfb-show.php:45 ../page/gmwfb-show.php:119
 msgid "Add New"
 msgstr ""
 
-#: ../page/gmwfb-show.php:57 ../page/gmwfb-show.php:70
+#: ../page/gmwfb-show.php:57 ../page/gmwfb-show.php:69
 msgid "Heading"
 msgstr ""
 
-#: ../page/gmwfb-show.php:58 ../page/gmwfb-show.php:71
+#: ../page/gmwfb-show.php:58 ../page/gmwfb-show.php:70
 msgid "Short Code"
 msgstr ""
 
-#: ../page/gmwfb-show.php:93
+#: ../page/gmwfb-show.php:91
 msgid "Edit"
 msgstr ""
 
-#: ../page/gmwfb-show.php:95
+#: ../page/gmwfb-show.php:93
 msgid "Delete"
 msgstr ""
 
-#: ../page/gmwfb-show.php:111
+#: ../page/gmwfb-show.php:109
 msgid "No records available."
 msgstr ""

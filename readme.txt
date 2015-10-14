@@ -54,9 +54,14 @@ How to add Google Map PHP file?
 
 Use below PHP code to add Google Map PHP file. You have to set your Map ID in the id parameter. To view your Map ID go to your Dashboard ==> Settings ==> Google Map.
 
+= Translators =
+
+* French (fr_FR) - [Shannon Martin](http://purehcgdietdrops.com/)
+
 == Installation ==
 
 [Installation Instruction and Configuration](http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/ "Installation Instruction and Configuration")
+
 
 == Frequently Asked Questions ==
 
